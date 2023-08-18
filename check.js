@@ -7,3 +7,7 @@ else
 {
     console.log("odd number")
 }
+
+
+var res=n%2==0?'even number':'odd number';
+console.log(res)
