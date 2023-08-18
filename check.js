@@ -11,3 +11,5 @@ else
 
 var res=n%2==0?'even number':'odd number';
 console.log(res)
+
+console.log("hello world")
